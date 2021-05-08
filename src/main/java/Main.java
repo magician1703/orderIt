@@ -26,7 +26,7 @@ public class Main {
         cuisines.get(0).addDessert(new Dessert("Cheese cake", 5.5F));
         cuisines.get(0).addDessert(new Dessert("Nutcracker", 5.5F));
         cuisines.get(0).addDessert(new Dessert("Apple pie", 5.5F));
-        cuisines.get(0).addDrink(new Drink("Barszcz w szklance", 3.5F));
+        cuisines.get(0).addDrink(new Drink("Deptucha ", 3.5F));
         cuisines.get(0).addDrink(new Drink("Chamomile Tea", 2.5F));
         cuisines.get(0).addDrink(new Drink("Bear Zywiec", 4.5F));
 
